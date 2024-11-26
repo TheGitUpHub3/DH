@@ -3,6 +3,14 @@
     "id": "https://TheGitUpHub3.github.io/DH/https-wondery-com-shows-mrballen-podcast-strange-dark-mysterious-stories-episode-14224-ghost-town-/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/" ] },
+    "homepage": [
+      {
+        "id": "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/",
+        "type": "Text",
+        "label": { "en": [ "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/" ] },
+        "format": "text/html"
+      }
+    ],
     "items": [
       {
         "id": "https://TheGitUpHub3.github.io/DH/https-wondery-com-shows-mrballen-podcast-strange-dark-mysterious-stories-episode-14224-ghost-town-/canvas-1/canvas",
