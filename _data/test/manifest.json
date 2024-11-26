@@ -5,7 +5,7 @@
     "label": { "en": [ "Test" ] },
     "homepage": [
       {
-        "id": "https://www.youtube.com/watch?v=RZA7BqNO-YU&amp;ab_channel=MrBallen",
+        "id": "https://www.youtube.com/watch?v=RZA7BqNO-YU&amp;amp;ab_channel=MrBallen",
         "type": "Text",
         "label": { "en": [ "Test" ] },
         "format": "text/html"
