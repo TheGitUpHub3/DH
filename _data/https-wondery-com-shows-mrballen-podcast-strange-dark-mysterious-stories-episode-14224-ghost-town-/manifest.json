@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://TheGitUpHub3.github.io/DH/https-wondery-com-shows-mrballen-podcast-strange-dark-mysterious-stories-episode-14224-ghost-town-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/" ] },
+    "label": { "en": [ "https://rss.art19.com/MrBallen-Podcast" ] },
     "homepage": [
       {
-        "id": "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/",
+        "id": "https://rss.art19.com/MrBallen-Podcast",
         "type": "Text",
-        "label": { "en": [ "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/" ] },
+        "label": { "en": [ "https://rss.art19.com/MrBallen-Podcast" ] },
         "format": "text/html"
       }
     ],
@@ -26,7 +26,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://wondery.com/shows/mrballen-podcast-strange-dark-mysterious-stories/episode/14224-ghost-town/",
+                  "id": "https://rss.art19.com/MrBallen-Podcast",
                     "duration": 1861.0
                 },
                 "target": "https://TheGitUpHub3.github.io/DH/https-wondery-com-shows-mrballen-podcast-strange-dark-mysterious-stories-episode-14224-ghost-town-/canvas-1/canvas"
